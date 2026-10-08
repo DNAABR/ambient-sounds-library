@@ -1,0 +1,22 @@
+{
+  "version": "0.1.0-preview",
+  "status": "engineering_preview",
+  "sounds": [
+    {
+      "sound_id": "rain-soft",
+      "creator": "barkenov",
+      "source_url": "https://freesound.org/people/barkenov/sounds/640655/",
+      "original_title": "Soft rain.WAV by barkenov",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "asset_sha256": "bfd2eceddd04eeac960c5cdbada2da3b2c880d0382d2165f4fa35796bc173f7d",
+      "asset_bytes": 7488044,
+      "duration_seconds": 39.0,
+      "sample_rate": 48000,
+      "channels": 2,
+      "encoding": "PCM16 WAV",
+      "processing": "DC removal; periodic 1-second splice or 50-ms event edges; peak normalized to 0.14",
+      "file": "rain-soft.wav"
+    }
+  ]
+}
