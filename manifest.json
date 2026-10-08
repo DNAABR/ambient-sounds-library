@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0-preview",
+  "version": "0.2.0-preview",
   "status": "engineering_preview",
   "sounds": [
     {
@@ -16,7 +16,25 @@
       "channels": 2,
       "encoding": "PCM16 WAV",
       "processing": "DC removal; periodic 1-second splice or 50-ms event edges; peak normalized to 0.14",
-      "file": "rain-soft.wav"
+      "file": "rain-soft.wav",
+      "url": "https://github.com/DNAABR/ambient-sounds-library/releases/download/v0.1.0-preview/rain-soft.wav"
+    },
+    {
+      "sound_id": "water-river",
+      "creator": "JW_Audio",
+      "source_url": "https://freesound.org/people/JW_Audio/sounds/810231/",
+      "original_title": "WATRFlow_Outdoor, Lake District, Cumbria, River Ellen, Flowing Water, Distant Rumble, Recording 1, Tascam DR-05X Stereo, 48Khs, 24bit_ JW Audio_ by JW_Audio",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "asset_sha256": "9810878a22c3e50c42e79cc3ef331e8cc65f835582e607695e0f3985a6cdc310",
+      "asset_bytes": 17088044,
+      "duration_seconds": 89.0,
+      "sample_rate": 48000,
+      "channels": 2,
+      "encoding": "PCM16 WAV",
+      "processing": "DC removal; periodic 1-second splice or 50-ms event edges; peak normalized to 0.14",
+      "file": "water-river.wav",
+      "url": "https://github.com/DNAABR/ambient-sounds-library/releases/download/v0.2.0-preview/water-river.wav"
     }
   ]
 }
